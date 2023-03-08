@@ -28,10 +28,10 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfo(
                 "Todo API",
-                "La API REST de ToDo App.",
+                "La API REST de  Tareas y Registro de Actividades.",
                 "v1",
-                "Terms of service",
-                new Contact("SACAViX Tech", "www.example.com", "myeaddress@company.com"),
+                "Terminos y Condiciones",
+                new Contact("IsraelMerlyn", "www.example.com", "isramerlyn@gmail.com"),
                 "License of API", "API license URL", Collections.emptyList());
     }
 
